@@ -18,4 +18,4 @@ const productDetails = {
     Price: 22,
     Instock: "Yes",
 }
-console log (products,productDetails);
+console.log (products,productDetails);
