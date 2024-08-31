@@ -36,3 +36,14 @@ accountBalance %= 500;
 console.log("Total Balance after Payment:", accountBalance);
 
 
+// Task 4: Comparison Operators
+
+
+let employeeScore1 = 200;
+let employeeScore2 = 100;
+console.log (employeeScore1 > employeeScore2);
+console.log (employeeScore1 < employeeScore2);
+console.log (employeeScore1 >= employeeScore2);
+console.log (employeeScore1 <= employeeScore2);
+console.log (employeeScore1 === employeeScore2);
+console.log (employeeScore1 !== employeeScore2);
